@@ -1,0 +1,36 @@
+<html>
+<title> World of Warcraft </title>
+<BODY BGCOLOR="#00A6FF">
+<h1><P ALIGN=CENTER><font face="Calibri Light" color="white"> WoW </font></P></h1>
+<font face="MV Boli" color="white"> Este é um jogo online, criado pela Blizzard </font>
+
+<ul><font face="MV Boli">
+<h3><font face="MV Boli" color="Ausencia de cor"> O que é o World of Warcraft? (mais conhecido por WOW) </font></h3>
+<li><p><A HREF="http://pt.wikipedia.org/wiki/World_Of_Warcraft"> Informações </A></p>;
+<li><p><A HREF="F:\escola\TIC\Módulo 3 - Páginas Web\projeto - Perfil Turma"> Horário </A></p>; 
+<li><p><A HREF="F:\escola\TIC\Módulo 3 - Páginas Web\projeto - Perfil Turma"> Lista de alunos </A></p>; 
+</ul></font>
+
+<h4><font face="MV Boli" color="Ausencia de cor"> Fotografia: </font></h4>
+<img src="________" alt="Fotografia" />
+
+<p><TR><TH align="right">Comentários:</TH></p>
+<p><TD> <TEXTAREA rows=3 cols=40></TEXTAREA></TD></TR> </TABLE></p>
+
+<TABLE>Classificação:
+<TABLE cellpadding="3" bgcolor="#F0F0F0">
+<TR><TD><INPUT type="checkbox"></TD>
+<TD>Muito Bom</TD>
+<TD><INPUT type="checkbox"></TD>
+<TD>Bom</TD>
+<TD><INPUT type="checkbox"></TD>
+<TD>Suficiente</TD> 
+<TD><INPUT type="checkbox"></TD>
+<TD>Insuficiente</TD>
+</table>
+</table>
+
+<p><A HREF="http://www.wowhead.com/"> Database </A></p>
+
+</body>
+</html>
